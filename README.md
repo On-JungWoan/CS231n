@@ -1,6 +1,6 @@
 # Stanford University CS231n, Spring 2017
 
-### Lecture 2. Image Classification
+## Lecture 2. Image Classification
 
 - **한국어 정리본**
 
@@ -12,7 +12,7 @@
 
 <br>
 
-### Lecture 3. Loss Functions and Optimization
+## Lecture 3. Loss Functions and Optimization
 
 - **한국어 정리본**
 

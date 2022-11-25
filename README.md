@@ -10,6 +10,8 @@
 
   [cs231n_2017_lecture2.pdf](https://github.com/On-JungWoan/CS231n/blob/master/ppt/cs231n_2017_lecture2.pdf)
 
+<br>
+
 ### Lecture 3. Loss Functions and Optimization
 
 - **한국어 정리본**

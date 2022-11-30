@@ -25,3 +25,16 @@
 - **ppt 링크**
 
   [cs231n_2017_lecture3.pdf](https://github.com/On-JungWoan/CS231n/blob/master/ppt/cs231n_2017_lecture3.pdf)  
+
+
+<br>
+
+## Lecture 4. Introduction to Neural Networks
+
+- **한국어 정리본**
+
+  [Introduction to Neural Networks(1)](https://on-jungwoan.github.io/dl/cs231n_4/)
+
+- **ppt 링크**
+
+  [cs231n_2017_lecture4.pdf](https://github.com/On-JungWoan/CS231n/blob/master/ppt/cs231n_2017_lecture4.pdf)  

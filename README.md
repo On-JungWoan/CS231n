@@ -29,11 +29,11 @@
 
 <br>
 
-## Lecture 4. Introduction to Neural Networks
+## Lecture 4. Backpropagation and Neural Networks
 
 - **한국어 정리본**
 
-  [Introduction to Neural Networks(1)](https://on-jungwoan.github.io/dl/cs231n_4/)
+  [Backpropagation and Neural Networks(1)](https://on-jungwoan.github.io/dl/cs231n_4/)
 
 - **ppt 링크**
 

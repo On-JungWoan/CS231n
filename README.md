@@ -4,7 +4,7 @@
 
 - **한국어 정리본**
 
-  [Image Classification](https://on-jungwoan.github.io/dl/cs231n_1/)
+  [Image Classification](https://on-jungwoan.github.io/dl/cs231n_2/)
   
 - **구현 Script**  
 
@@ -20,7 +20,7 @@
 
 - **한국어 정리본**
 
-  [Loss Functions and Optimization](https://on-jungwoan.github.io/dl/cs231n_2/)
+  [Loss Functions and Optimization](https://on-jungwoan.github.io/dl/cs231n_3/)
 
 - **ppt 링크**
 

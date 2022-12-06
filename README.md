@@ -45,7 +45,7 @@
 
 - **한국어 정리본**
 
-  [Backpropagation and Neural Networks(1)](https://on-jungwoan.github.io/dl/cs231n_5/)
+  [Convolutional Neural Network](https://on-jungwoan.github.io/dl/cs231n_5/)
 
 - **ppt 링크**
 

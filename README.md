@@ -33,8 +33,32 @@
 
 - **한국어 정리본**
 
-  [Backpropagation and Neural Networks(1)](https://on-jungwoan.github.io/dl/cs231n_4/)
+  [Backpropagation and Neural Networks](https://on-jungwoan.github.io/dl/cs231n_4/)
 
 - **ppt 링크**
 
   [cs231n_2017_lecture4.pdf](https://github.com/On-JungWoan/CS231n/blob/master/ppt/cs231n_2017_lecture4.pdf)  
+  
+<br>  
+  
+## Lecture 5. Convolutional Neural Networks
+
+- **한국어 정리본**
+
+  [Backpropagation and Neural Networks(1)](https://on-jungwoan.github.io/dl/cs231n_5/)
+
+- **ppt 링크**
+
+  [cs231n_2017_lecture5.pdf](https://github.com/On-JungWoan/CS231n/blob/master/ppt/cs231n_2017_lecture5.pdf)  
+  
+<br>
+  
+## Lecture 6. Training Neural Networks, Part I
+
+- **한국어 정리본**
+
+  [Training Neural Networks, Part I](https://on-jungwoan.github.io/dl/cs231n_6/)
+
+- **ppt 링크**
+
+  [cs231n_2017_lecture6.pdf](https://github.com/On-JungWoan/CS231n/blob/master/ppt/cs231n_2017_lecture6.pdf)    

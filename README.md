@@ -62,3 +62,16 @@
 - **ppt 링크**
 
   [cs231n_2017_lecture6.pdf](https://github.com/On-JungWoan/CS231n/blob/master/ppt/cs231n_2017_lecture6.pdf)    
+ 
+ <br>
+ 
+ ## Lecture 7. Training Neural Networks, Part Ⅱ
+
+- **한국어 정리본**
+
+  [Training Neural Networks, Part Ⅱ](https://on-jungwoan.github.io/dl/cs231n_7/)
+
+- **ppt 링크**
+
+  [cs231n_2017_lecture7.pdf](https://github.com/On-JungWoan/CS231n/blob/master/ppt/cs231n_2017_lecture7.pdf)  
+

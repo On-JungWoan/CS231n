@@ -85,4 +85,4 @@
 
 - **ppt 링크**
 
-  [cs231n_2017_lecture79pdf](https://github.com/On-JungWoan/CS231n/blob/master/ppt/cs231n_2017_lecture9.pdf) 
+  [cs231n_2017_lecture9.pdf](https://github.com/On-JungWoan/CS231n/blob/master/ppt/cs231n_2017_lecture9.pdf) 

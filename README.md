@@ -75,3 +75,14 @@
 
   [cs231n_2017_lecture7.pdf](https://github.com/On-JungWoan/CS231n/blob/master/ppt/cs231n_2017_lecture7.pdf)  
 
+ <br>
+ 
+## Lecture 9. CNN Architectures
+  
+- **한국어 정리본**
+
+  [CNN Architectures](https://on-jungwoan.github.io/dl/cs231n_9/)
+
+- **ppt 링크**
+
+  [cs231n_2017_lecture79pdf](https://github.com/On-JungWoan/CS231n/blob/master/ppt/cs231n_2017_lecture9.pdf) 

@@ -4,7 +4,7 @@
 
 - **한국어 정리본**
 
-  [Image Classification](https://on-jungwoan.github.io/dl/cs231n_2/)
+  [Image Classification](https://on-jungwoan.github.io/dl_study/cs231n_2/)
   
 - **구현 Script**  
 
@@ -20,7 +20,7 @@
 
 - **한국어 정리본**
 
-  [Loss Functions and Optimization](https://on-jungwoan.github.io/dl/cs231n_3/)
+  [Loss Functions and Optimization](https://on-jungwoan.github.io/dl_study/cs231n_3/)
 
 - **ppt 링크**
 
@@ -33,7 +33,7 @@
 
 - **한국어 정리본**
 
-  [Backpropagation and Neural Networks](https://on-jungwoan.github.io/dl/cs231n_4/)
+  [Backpropagation and Neural Networks](https://on-jungwoan.github.io/dl_study/cs231n_4/)
 
 - **ppt 링크**
 
@@ -45,7 +45,7 @@
 
 - **한국어 정리본**
 
-  [Convolutional Neural Network](https://on-jungwoan.github.io/dl/cs231n_5/)
+  [Convolutional Neural Network](https://on-jungwoan.github.io/dl_study/cs231n_5/)
 
 - **ppt 링크**
 
@@ -57,7 +57,7 @@
 
 - **한국어 정리본**
 
-  [Training Neural Networks, Part I](https://on-jungwoan.github.io/dl/cs231n_6/)
+  [Training Neural Networks, Part I](https://on-jungwoan.github.io/dl_study/cs231n_6/)
 
 - **ppt 링크**
 
@@ -69,7 +69,7 @@
 
 - **한국어 정리본**
 
-  [Training Neural Networks, Part Ⅱ](https://on-jungwoan.github.io/dl/cs231n_7/)
+  [Training Neural Networks, Part Ⅱ](https://on-jungwoan.github.io/dl_study/cs231n_7/)
 
 - **ppt 링크**
 
@@ -81,7 +81,7 @@
   
 - **한국어 정리본**
 
-  [CNN Architectures](https://on-jungwoan.github.io/dl/cs231n_9/)
+  [CNN Architectures](https://on-jungwoan.github.io/dl_study/cs231n_9/)
 
 - **ppt 링크**
 
